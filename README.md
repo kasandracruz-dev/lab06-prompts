@@ -3,7 +3,7 @@
 Laboratorio 06: Fundamentos de Ingenieria de Prompts. 
 Herramienta de IA usada: Gemini 
 - [Bitacora de prompts](prompts/BITACORA.md)
-- [Tarea: Diseño e Iteración de Prompt Profesional](prompts/TAREA.md)
+- [Tarea: Diseño e Iteración de Prompt Profesional](prompts/Tarea.md)
 ## Ejercicio 2: Tokens y ventana de contexto
 | Texto | Caracteres | Tokens |
 |-------|------------|--------|
