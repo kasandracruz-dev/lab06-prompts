@@ -43,11 +43,11 @@ El simulador nunca inventa un nombre nuevo porque sus salidas se limitan estrict
 | Ejemplo    |Explica primerola estructura de la clase y luego presenta el codigo Java |
 | Formato    |Usa este estilopara los metodos:getPrecio(), setPrecio(double precio) |
 
-Nivel 1:Genera un programa en Java genérico y básico por falta de detalles.
-Nivel 2:Incluye buenas prácticas de desarrollo, comentarios profesionales y una mejor estructura de código.
-Nivel 3:Enfoca el programa específicamente en la gestión de una tienda y sus productos.
-Nivel 4:Define con precisión la clase Producto usando los atributos solicitados
-Nivel 5:Organiza la respuesta en dos partes claras: primero una explicación teórica de la estructura y luego el código fuente.
+- Nivel 1:Genera un programa en Java genérico y básico por falta de detalles.
+- Nivel 2:Incluye buenas prácticas de desarrollo, comentarios profesionales y una mejor estructura de código.
+- Nivel 3:Enfoca el programa específicamente en la gestión de una tienda y sus productos.
+- Nivel 4:Define con precisión la clase Producto usando los atributos solicitados
+- Nivel 5:Organiza la respuesta en dos partes claras: primero una explicación teórica de la estructura y luego el código fuente.
 
 ## Ejercicio 6: Del prompt basico al profesional
 | Qué revisar | Cumple (Sí / No) |
